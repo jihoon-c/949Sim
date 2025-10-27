@@ -11,16 +11,16 @@ public class JSBSimFlightDynamicsModel : ModuleRules
 		
 		PublicIncludePaths.AddRange(
 			new string[] {
-				// ... add public include paths required here ...
-			}
-			);
+			 "JSBSimFlightDynamicsModel/Public"
+            }
+            );
 				
 		
 		PrivateIncludePaths.AddRange(
 			new string[] {
-				// ... add other private include paths required here ...
-			}
-			);
+			 "JSBSimFlightDynamicsModel/Private"
+            }
+            );
 			
 		
 		PublicDependencyModuleNames.AddRange(
