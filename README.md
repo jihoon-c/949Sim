@@ -1,2 +1,0 @@
-# 949Sim
-Aircraft Simulator
